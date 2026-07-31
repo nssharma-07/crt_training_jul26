@@ -104,3 +104,10 @@ int main()
     printf("%d  %d  %d", x, y, z);
 }
 
+------------------------------
+STACK 
+STACK PROBLEMS
+C PROGRAMMING
+POINTERS
+TYPES OF POINTER
+ARRAYS
